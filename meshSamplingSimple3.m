@@ -121,6 +121,6 @@ function out=arr_check(v1,v2)
         indices=[indices nVertices];
         out=nVertices;
     else
-        out=vert_arr(id);
+        out=indices(id);
     end
 end
