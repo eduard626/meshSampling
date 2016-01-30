@@ -1,0 +1,961 @@
+Starting parallel pool (parpool) using the 'local' profile ... connected to 4 workers.
+
+ans = 
+
+ Pool with properties: 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: local
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Working with living-room5.off
+Elapsed time is 18.671191 seconds.
+Working with living-room3.off
+Elapsed time is 26.681377 seconds.
+Working with office-desk2.off
+Elapsed time is 32.692662 seconds.
+22775 vertices and 44047 faces 
+Elapsed time is 66.244527 seconds.
+45909 vertices and 90620 faces 
+Elapsed time is 70.450140 seconds.
+23775 vertices and 46475 faces 
+Elapsed time is 111.979332 seconds.
+54255 vertices and 107256 faces 
+Elapsed time is 253.408124 seconds.
+36528 vertices and 71592 faces 
+Elapsed time is 303.625379 seconds.
+39754 vertices and 78441 faces 
+Elapsed time is 444.558701 seconds.
+70675 vertices and 140090 faces 
+Elapsed time is 274.723220 seconds.
+86892 vertices and 172516 faces 
+Elapsed time is 167.705918 seconds.
+93767 vertices and 186266 faces 
+Elapsed time is 134.653694 seconds.
+96921 vertices and 192574 faces 
+Elapsed time is 31.398191 seconds.
+96940 vertices and 192612 faces 
+Elapsed time is 21.128934 seconds.
+96940 vertices and 192612 faces 
+ ....done. Saved as office-desk2_dense.off
+Working with office-desk1.off
+Elapsed time is 2.141175 seconds.
+6405 vertices and 13106 faces 
+Elapsed time is 3.013319 seconds.
+8758 vertices and 17816 faces 
+Elapsed time is 7.511928 seconds.
+12884 vertices and 26177 faces 
+Elapsed time is 16.635092 seconds.
+18630 vertices and 37933 faces 
+Elapsed time is 19.363983 seconds.
+23959 vertices and 48757 faces 
+Elapsed time is 9.529051 seconds.
+24008 vertices and 48855 faces 
+Elapsed time is 9.313023 seconds.
+24010 vertices and 48859 faces 
+Elapsed time is 9.258049 seconds.
+24010 vertices and 48859 faces 
+ ....done. Saved as office-desk1_dense.off
+66206 vertices and 131028 faces 
+Elapsed time is 984.970601 seconds.
+Working with kitchen5.off
+Elapsed time is 1454.386576 seconds.
+73004 vertices and 145093 faces 
+Elapsed time is 934.566532 seconds.
+Working with office-desk4.off
+Elapsed time is 2434.992291 seconds.
+115754 vertices and 230248 faces 
+Elapsed time is 3066.528128 seconds.
+114319 vertices and 227999 faces 
+Elapsed time is 3591.038995 seconds.
+187490 vertices and 374032 faces 
+Elapsed time is 5287.059343 seconds.
+191918 vertices and 384523 faces 
+Elapsed time is 5020.242143 seconds.
+260367 vertices and 519890 faces 
+Elapsed time is 2726.992368 seconds.
+290802 vertices and 580568 faces 
+Elapsed time is 727.106813 seconds.
+298216 vertices and 595396 faces 
+Elapsed time is 64.254916 seconds.
+298216 vertices and 595396 faces 
+ ....done. Saved as living-room5_dense.off
+Working with living-room4.off
+Elapsed time is 549.379999 seconds.
+265050 vertices and 531753 faces 
+Elapsed time is 6310.570652 seconds.
+86765 vertices and 174426 faces 
+Elapsed time is 3486.206413 seconds.
+328681 vertices and 658645 faces 
+Elapsed time is 2618.707447 seconds.
+352501 vertices and 706285 faces 
+Elapsed time is 94.467913 seconds.
+352501 vertices and 706285 faces 
+ ....done. Saved as living-room3_dense.off
+Working with living-room2.off
+Elapsed time is 10.726659 seconds.
+12437 vertices and 24476 faces 
+Elapsed time is 71.055138 seconds.
+28276 vertices and 56180 faces 
+Elapsed time is 344.439477 seconds.
+111028 vertices and 214539 faces 
+Elapsed time is 19129.348603 seconds.
+61738 vertices and 123134 faces 
+Elapsed time is 1234.419153 seconds.
+118153 vertices and 236074 faces 
+Elapsed time is 4246.384381 seconds.
+168676 vertices and 346328 faces 
+Elapsed time is 9580.609867 seconds.
+224489 vertices and 448710 faces 
+Elapsed time is 2870.291101 seconds.
+268197 vertices and 535838 faces 
+Elapsed time is 3918.535595 seconds.
+140809 vertices and 271171 faces 
+Elapsed time is 28727.905690 seconds.
+318822 vertices and 636896 faces 
+Elapsed time is 3388.313099 seconds.
+351618 vertices and 702488 faces 
+Elapsed time is 63.448857 seconds.
+351618 vertices and 702488 faces 
+ ....done. Saved as living-room2_dense.off
+Working with living-room1.off
+Elapsed time is 11.096757 seconds.
+18452 vertices and 33769 faces 
+Elapsed time is 76.984615 seconds.
+36795 vertices and 70683 faces 
+Elapsed time is 508.226642 seconds.
+74975 vertices and 147745 faces 
+Elapsed time is 1943.809776 seconds.
+147341 vertices and 294047 faces 
+Elapsed time is 2833.565182 seconds.
+299661 vertices and 611186 faces 
+Elapsed time is 14571.840082 seconds.
+207403 vertices and 415745 faces 
+Elapsed time is 1863.194028 seconds.
+237031 vertices and 475627 faces 
+Elapsed time is 1782.989374 seconds.
+263651 vertices and 528729 faces 
+Elapsed time is 337.302247 seconds.
+267833 vertices and 537093 faces 
+Elapsed time is 107.057275 seconds.
+267833 vertices and 537093 faces 
+ ....done. Saved as living-room1_dense.off
+Working with office-desk5.off
+Elapsed time is 92.289152 seconds.
+28653 vertices and 55040 faces 
+Elapsed time is 1799.270821 seconds.
+436489 vertices and 885088 faces 
+Elapsed time is 12786.043594 seconds.
+524550 vertices and 1061338 faces 
+Elapsed time is 5697.570175 seconds.
+557993 vertices and 1128036 faces 
+Elapsed time is 8133.249480 seconds.
+111963 vertices and 220160 faces 
+Elapsed time is 28891.679015 seconds.
+605554 vertices and 1222774 faces 
+Elapsed time is 13935.649935 seconds.
+675314 vertices and 1362038 faces 
+Elapsed time is 171.260674 seconds.
+675314 vertices and 1362038 faces 
+ ....done. Saved as living-room4_dense.off
+Working with office-desk6.off
+Elapsed time is 115.842171 seconds.
+36245 vertices and 72220 faces 
+Elapsed time is 3092.515471 seconds.
+143935 vertices and 288400 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 181)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 28)
+            [res,id]=ismember(vp',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+443617 vertices and 880640 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 181)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 39)
+            [res,id]=ismember(vq',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+{Operation terminated by user during distcomp.remoteparfor/getCompleteIntervals (line 119)
+
+
+In parallel_function>distributed_execution (line 820)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+In parallel_function (line 587)
+        R = distributed_execution(...
+
+In overnight_script (line 5)
+parfor i=2:size(listing,1)
+} 
+clc
+exit
+{Error using parpool (line 99)
+You requested a minimum of 8 workers, but the cluster "local" has the NumWorkers property set to allow a maximum of 4 workers. To run a communicating job on more workers than this (up to a maximum of 512 for the Local cluster), increase
+the value of the NumWorkers property for the cluster. The default value of NumWorkers for a Local cluster is the number of cores on the local machine.
+
+Error in overnight_script (line 4)
+parpool(8)
+} 
+overnight_script
+{Error using parpool (line 99)
+You requested a minimum of 8 workers, but the cluster "local" has the NumWorkers property set to allow a maximum of 4 workers. To run a communicating job on more workers than this (up to a maximum of 512 for the Local cluster), increase
+the value of the NumWorkers property for the cluster. The default value of NumWorkers for a Local cluster is the number of cores on the local machine.
+
+Error in overnight_script (line 4)
+parpool('local',8)
+} 
+exit
+Starting parallel pool (parpool) using the 'local' profile ... connected to 8 workers.
+
+ans = 
+
+ Pool with properties: 
+
+            Connected: true
+           NumWorkers: 8
+              Cluster: local
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Working with living-room2.off
+Elapsed time is 40.939142 seconds.
+Working with living-room3.off
+Elapsed time is 80.642533 seconds.
+Working with living-room1.off
+Elapsed time is 80.669527 seconds.
+14395 vertices and 28301 faces 
+Elapsed time is 210.461640 seconds.
+26021 vertices and 50947 faces 
+Elapsed time is 322.675901 seconds.
+21427 vertices and 39729 faces 
+Elapsed time is 460.943693 seconds.
+Working with kitchen1.off
+Elapsed time is 735.046363 seconds.
+33873 vertices and 67315 faces 
+Elapsed time is 1591.919107 seconds.
+45506 vertices and 89899 faces 
+Elapsed time is 1896.539725 seconds.
+Working with kitchen3.off
+Elapsed time is 2435.479092 seconds.
+Working with living-room4.off
+Elapsed time is 2720.175004 seconds.
+Working with kitchen4.off
+Elapsed time is 2781.158577 seconds.
+76875 vertices and 153208 faces 
+Elapsed time is 2079.354594 seconds.
+Working with kitchen5.off
+Elapsed time is 3301.110101 seconds.
+48219 vertices and 93509 faces 
+Elapsed time is 3003.760708 seconds.
+118297 vertices and 236872 faces 
+Elapsed time is 7620.027246 seconds.
+86710 vertices and 173085 faces 
+Elapsed time is 10043.743586 seconds.
+118477 vertices and 237904 faces 
+Elapsed time is 9586.566859 seconds.
+98213 vertices and 195421 faces 
+Elapsed time is 10985.025994 seconds.
+114982 vertices and 228207 faces 
+Elapsed time is 16986.138796 seconds.
+212017 vertices and 423663 faces 
+Elapsed time is 28523.706186 seconds.
+196067 vertices and 394786 faces 
+Elapsed time is 37559.505758 seconds.
+199726 vertices and 399351 faces 
+Elapsed time is 38720.779715 seconds.
+102116 vertices and 204932 faces 
+Elapsed time is 48890.009096 seconds.
+110459 vertices and 214160 faces 
+Elapsed time is 52657.981594 seconds.
+117562 vertices and 226421 faces 
+Elapsed time is 54471.731178 seconds.
+209250 vertices and 427850 faces 
+Elapsed time is 61775.003968 seconds.
+253430 vertices and 508307 faces 
+Elapsed time is 65290.797091 seconds.
+360328 vertices and 721729 faces 
+Elapsed time is 97851.272043 seconds.
+515941 vertices and 1040701 faces 
+Elapsed time is 84729.188379 seconds.
+387434 vertices and 783656 faces 
+Elapsed time is 136513.601696 seconds.
+640719 vertices and 1287997 faces 
+Operation terminated by user during ismember
+
+
+In meshSamplingSimple (line 28)
+            [res,id]=ismember(vp',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+394691 vertices and 789859 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 179)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 50)
+            [res,id]=ismember(vr',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+479968 vertices and 993570 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 179)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 39)
+            [res,id]=ismember(vq',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+396531 vertices and 796538 faces 
+Operation terminated by user during ismember
+
+
+In meshSamplingSimple (line 28)
+            [res,id]=ismember(vp',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+426062 vertices and 839977 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 181)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 28)
+            [res,id]=ismember(vp',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+726774 vertices and 1469595 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 181)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 39)
+            [res,id]=ismember(vq',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+415042 vertices and 820314 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 179)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 39)
+            [res,id]=ismember(vq',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+733819 vertices and 1487346 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 181)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 28)
+            [res,id]=ismember(vp',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+{Operation terminated by user during distcomp.remoteparfor/getCompleteIntervals (line 119)
+
+
+In parallel_function>distributed_execution (line 820)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+In parallel_function (line 587)
+        R = distributed_execution(...
+
+In overnight_script (line 5)
+parfor i=1:size(listing,1)
+} 
+
+logo      logodemo  logoWF    
+logout
+{Undefined function or variable 'logout'.
+} 
+exit
+Starting parallel pool (parpool) using the 'local' profile ... connected to 6 workers.
+
+ans = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> with properties: 
+
+            Connected: true
+           NumWorkers: 6
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD53BD4EC3400C76D2B48281AA0809F5119812400CDD8B1020221045A25B7A694F34E89A8BD274E8C6C82330766464E45158D8790CCE8DD35C434A4160C9BA7C8EFDD9DFFD8071E682B2BAF299F29AF20DE5DB909AB1582D70DB971DC47BCA23163321B8B08330E171C8843D08C6916053BB2D26631572F988878944DE538D778BF8AA846BD423EB83B8997EBE9BDABFCC916F68E57C9B053ECC6959399F4918349D4F95BCDE2CA9D7E7A92ADD55C2B8E21E643C57959FED176A3E0904BF8D5914F1D8F3A8BEA1D5E7FD529CF5CCE298DF3456EBFE28E49B14C315E5F7943F90BF287FA3FF99DD4C230EC72C61B07C7EAB0F1A4A0D7B55CA7F2D995182F598095FF5147374AB6BAB7EDF2C8AEBE7BBABF134082F64F653F9F685EC3391F2BDC2EFEECB0E615CCFA5DF4964CCEE381226810CF3397B6BE6740A7322768672C41D3E98B078201D7BC412C17C47E0B01E8DEEDD4B7FEC5C1FEE1F1CF9F33ECFB0FA9E15F715F35B6BF44241EF7FD73FC2F7EFBB0BCBF7A23B27CCDFB77EFE7F79DF689F6225BF7B20050000')">local</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Working with living-room2.off
+Elapsed time is 16.943635 seconds.
+Working with living-room1.off
+Elapsed time is 49.142206 seconds.
+14395 vertices and 28301 faces 
+Elapsed time is 152.234929 seconds.
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distcomp.remoteparfor/getCompleteIntervals', '/usr/local/MATLAB/R2014b/toolbox/distcomp/distcomp/+distcomp/remoteparfor.m', 119)" style="font-weight:bold">distcomp.remoteparfor/getCompleteIntervals</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2014b/toolbox/distcomp/distcomp/+distcomp/remoteparfor.m',119,0)">line 119</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function>distributed_execution', '/usr/local/MATLAB/R2014b/toolbox/matlab/lang/parallel_function.m', 820)" style="font-weight:bold">parallel_function>distributed_execution</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2014b/toolbox/matlab/lang/parallel_function.m',820,0)">line 820</a>)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function', '/usr/local/MATLAB/R2014b/toolbox/matlab/lang/parallel_function.m', 587)" style="font-weight:bold">parallel_function</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2014b/toolbox/matlab/lang/parallel_function.m',587,0)">line 587</a>)
+        R = distributed_execution(...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('overnight_script', '/home/eduardo/Downloads/CAD/OBJ/OFF/overnight_script.m', 5)" style="font-weight:bold">overnight_script</a> (<a href="matlab: opentoline('/home/eduardo/Downloads/CAD/OBJ/OFF/overnight_script.m',5,0)">line 5</a>)
+parfor i=1:size(listing,1)
+} 
+clc
+Parallel pool using the 'local' profile is shutting down.
+clear all
+file='living-room1.off'
+
+file =
+
+living-room1.off
+
+maxDistance=0.025;
+[v,f]=main(file,maxDistance);
+Elapsed time is 10.378328 seconds.
+21427 vertices and 39729 faces 
+Elapsed time is 64.544496 seconds.
+48219 vertices and 93509 faces 
+Elapsed time is 430.272705 seconds.
+114982 vertices and 228207 faces 
+Elapsed time is 2122.854564 seconds.
+253430 vertices and 508307 faces 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ismember>ismemberR2012a', '/usr/local/MATLAB/R2014b/toolbox/matlab/ops/ismember.m', 179)" style="font-weight:bold">ismember>ismemberR2012a</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2014b/toolbox/matlab/ops/ismember.m',179,0)">line 179</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ismember', '/usr/local/MATLAB/R2014b/toolbox/matlab/ops/ismember.m', 102)" style="font-weight:bold">ismember</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2014b/toolbox/matlab/ops/ismember.m',102,0)">line 102</a>)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('meshSamplingSimple', '/home/eduardo/Downloads/CAD/OBJ/OFF/meshSamplingSimple.m', 28)" style="font-weight:bold">meshSamplingSimple</a> (<a href="matlab: opentoline('/home/eduardo/Downloads/CAD/OBJ/OFF/meshSamplingSimple.m',28,0)">line 28</a>)
+            [res,id]=ismember(vp',new_vertices','rows');
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', '/home/eduardo/Downloads/CAD/OBJ/OFF/main.m', 7)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('/home/eduardo/Downloads/CAD/OBJ/OFF/main.m',7,0)">line 7</a>)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+} 
+clc
+Starting parallel pool (parpool) using the 'local' profile ... connected to 8 workers.
+
+ans = 
+
+ Pool with properties: 
+
+            Connected: true
+           NumWorkers: 8
+              Cluster: local
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Working with living-room2.off
+Elapsed time is 31.436378 seconds.
+Working with living-room3.off
+Elapsed time is 73.653876 seconds.
+Working with living-room1.off
+Elapsed time is 81.625128 seconds.
+14395 vertices and 28301 faces 
+Elapsed time is 223.431238 seconds.
+26021 vertices and 50947 faces 
+Elapsed time is 324.075798 seconds.
+21427 vertices and 39729 faces 
+Elapsed time is 442.954361 seconds.
+45506 vertices and 89899 faces 
+Operation terminated by user during ismember (line 102)
+
+
+In meshSamplingSimple (line 28)
+            [res,id]=ismember(vp',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Working with kitchen1.off
+Operation terminated by user during ismember>ismemberR2012a (line 181)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 50)
+            [res,id]=ismember(vr',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Working with living-room4.off
+Operation terminated by user during ismember>ismemberR2012a (line 179)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 50)
+            [res,id]=ismember(vr',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Working with kitchen5.off
+Operation terminated by user during ismember>ismemberR2012a (line 189)
+
+
+In ismember (line 102)
+        [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B,logical(flaginds(1)));
+
+In meshSamplingSimple (line 28)
+            [res,id]=ismember(vp',new_vertices','rows');
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple(vert1,faces1,maxDistance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+{Operation terminated by user during distcomp.remoteparfor/getCompleteIntervals (line 119)
+
+
+In parallel_function>distributed_execution (line 820)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+In parallel_function (line 587)
+        R = distributed_execution(...
+
+In overnight_script (line 5)
+parfor i=1:size(listing,1)
+} 
+clc
+exit
+Starting parallel pool (parpool) using the 'local' profile ... connected to 8 workers.
+
+ans = 
+
+ Pool with properties: 
+
+            Connected: true
+           NumWorkers: 8
+              Cluster: local
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Working with living-room2.off
+Elapsed time is 5.185087 seconds.
+Working with living-room1.off
+Elapsed time is 7.346454 seconds.
+Working with living-room3.off
+Elapsed time is 10.073356 seconds.
+14399 vertices and 28301 faces 
+Elapsed time is 13.097721 seconds.
+22475 vertices and 39729 faces 
+Elapsed time is 19.760520 seconds.
+26038 vertices and 50947 faces 
+Elapsed time is 18.834289 seconds.
+Working with kitchen1.off
+Elapsed time is 32.106821 seconds.
+33878 vertices and 67315 faces 
+Elapsed time is 60.457272 seconds.
+Working with living-room4.off
+Elapsed time is 80.841784 seconds.
+Working with kitchen3.off
+Elapsed time is 89.696736 seconds.
+45560 vertices and 89899 faces 
+Elapsed time is 69.650506 seconds.
+Working with kitchen4.off
+Elapsed time is 98.310930 seconds.
+77152 vertices and 153208 faces 
+Elapsed time is 68.550141 seconds.
+Working with kitchen5.off
+Elapsed time is 104.248138 seconds.
+49441 vertices and 93509 faces 
+Elapsed time is 84.946998 seconds.
+118984 vertices and 236872 faces 
+Elapsed time is 189.823938 seconds.
+119760 vertices and 237904 faces 
+Elapsed time is 250.599659 seconds.
+86722 vertices and 173079 faces 
+Elapsed time is 318.716835 seconds.
+98377 vertices and 195409 faces 
+Elapsed time is 322.573877 seconds.
+116834 vertices and 228251 faces 
+Elapsed time is 508.800947 seconds.
+212567 vertices and 423677 faces 
+Elapsed time is 676.151107 seconds.
+197808 vertices and 394806 faces 
+Elapsed time is 1069.073939 seconds.
+199753 vertices and 399233 faces 
+Elapsed time is 1067.655348 seconds.
+102149 vertices and 204932 faces 
+Elapsed time is 2409.056694 seconds.
+256720 vertices and 508395 faces 
+Elapsed time is 2137.361235 seconds.
+214040 vertices and 427850 faces 
+Elapsed time is 2427.094750 seconds.
+111238 vertices and 214160 faces 
+Elapsed time is 2666.889234 seconds.
+118090 vertices and 226421 faces 
+Elapsed time is 2697.133319 seconds.
+361771 vertices and 721637 faces 
+Elapsed time is 2039.533926 seconds.
+521767 vertices and 1038791 faces 
+Elapsed time is 1675.159211 seconds.
+391739 vertices and 783634 faces 
+Elapsed time is 3381.420519 seconds.
+394865 vertices and 789729 faces 
+Elapsed time is 3640.206917 seconds.
+733524 vertices and 1462853 faces 
+Elapsed time is 695.602898 seconds.
+645426 vertices and 1288513 faces 
+Elapsed time is 2221.554628 seconds.
+849469 vertices and 1696227 faces 
+Elapsed time is 662.625423 seconds.
+762661 vertices and 1525337 faces 
+Elapsed time is 1008.504592 seconds.
+956040 vertices and 1909071 faces 
+Elapsed time is 493.947334 seconds.
+970239 vertices and 1937469 faces 
+Elapsed time is 456.621174 seconds.
+970239 vertices and 1937469 faces 
+ ....done. Saved as living-room1_dense.off
+Working with living-room5.off
+Elapsed time is 14.428909 seconds.
+27584 vertices and 53452 faces 
+Elapsed time is 30.374813 seconds.
+51164 vertices and 100466 faces 
+Elapsed time is 70.967754 seconds.
+99917 vertices and 197869 faces 
+Elapsed time is 255.345708 seconds.
+929745 vertices and 1856639 faces 
+Elapsed time is 2017.848103 seconds.
+926109 vertices and 1851657 faces 
+Elapsed time is 1380.117636 seconds.
+206582 vertices and 411031 faces 
+Elapsed time is 788.096632 seconds.
+495293 vertices and 993168 faces 
+Elapsed time is 5346.679007 seconds.
+1188690 vertices and 2373761 faces 
+Elapsed time is 787.158443 seconds.
+1124139 vertices and 2247333 faces 
+Elapsed time is 913.208926 seconds.
+1283282 vertices and 2562945 faces 
+Elapsed time is 628.410996 seconds.
+1283282 vertices and 2562945 faces 
+ ....done. Saved as living-room3_dense.off
+1255304 vertices and 2509663 faces 
+Elapsed time is 585.284599 seconds.
+1255304 vertices and 2509663 faces 
+ ....done. Saved as living-room2_dense.off
+743437 vertices and 1487416 faces 
+Elapsed time is 4517.413419 seconds.
+393046 vertices and 783691 faces 
+Elapsed time is 1398.892230 seconds.
+665015 vertices and 1327165 faces 
+Elapsed time is 1374.324494 seconds.
+1162200 vertices and 2324230 faces 
+Elapsed time is 1799.487792 seconds.
+946624 vertices and 1889615 faces 
+Elapsed time is 489.411903 seconds.
+1070702 vertices and 2137387 faces 
+Elapsed time is 354.753024 seconds.
+1426146 vertices and 2851802 faces 
+Elapsed time is 650.565614 seconds.
+1099355 vertices and 2194693 faces 
+Elapsed time is 357.587464 seconds.
+1099355 vertices and 2194693 faces 
+ ....done. Saved as living-room5_dense.off
+1539570 vertices and 3078650 faces 
+Elapsed time is 444.826446 seconds.
+939080 vertices and 1883412 faces 
+Elapsed time is 4101.758966 seconds.
+1540236 vertices and 3079982 faces 
+Elapsed time is 457.706269 seconds.
+1540236 vertices and 3079982 faces 
+ ....done. Saved as kitchen1_dense.off
+1403104 vertices and 2811460 faces 
+Elapsed time is 1575.752813 seconds.
+1720604 vertices and 3446396 faces 
+Elapsed time is 556.256038 seconds.
+1852264 vertices and 3709332 faces 
+Elapsed time is 813.539669 seconds.
+2041593 vertices and 4087222 faces 
+Elapsed time is 1392.653688 seconds.
+2320377 vertices and 4644278 faces 
+Elapsed time is 525.730799 seconds.
+2320377 vertices and 4644278 faces 
+ ....done. Saved as living-room4_dense.off
+427673 vertices and 839977 faces 
+Elapsed time is 16329.428930 seconds.
+417155 vertices and 820314 faces 
+Elapsed time is 16388.142679 seconds.
+396664 vertices and 796538 faces 
+Elapsed time is 16666.872036 seconds.
+{Operation terminated by user during distcomp.remoteparfor/getCompleteIntervals (line 119)
+
+
+In parallel_function>distributed_execution (line 820)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+In parallel_function (line 587)
+        R = distributed_execution(...
+
+In overnight_script (line 5)
+parfor i=1:size(listing,1)
+} 
+exit
+Starting parallel pool (parpool) using the 'local' profile ... connected to 4 workers.
+
+ans = 
+
+ Pool with properties: 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: local
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Working with kitchen3.off
+Elapsed time is 5.882939 seconds.
+Working with kitchen5.off
+Elapsed time is 7.368788 seconds.
+Working with kitchen4.off
+Elapsed time is 7.750264 seconds.
+Working with kitchen1.off
+Elapsed time is 14.538334 seconds.
+kitchen3.off 32136 vertices and 64611 faces 
+Elapsed time is 9.231968 seconds.
+kitchen5.off 44704 vertices and 82388 faces 
+Elapsed time is 14.443912 seconds.
+kitchen4.off 44035 vertices and 83958 faces 
+Elapsed time is 15.589480 seconds.
+kitchen3.off 47660 vertices and 96151 faces 
+Elapsed time is 18.328553 seconds.
+77152 vertices and 153208 faces 
+Elapsed time is 24.346623 seconds.
+kitchen5.off 76718 vertices and 144462 faces 
+Elapsed time is 46.711820 seconds.
+kitchen4.off 76789 vertices and 150064 faces 
+Elapsed time is 47.331831 seconds.
+kitchen4.off 158848 vertices and 315520 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 137)
+
+
+In ismember (line 56)
+    [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B);
+
+In meshSamplingSimple3>arr_check (line 117)
+    [res,id]=ismember(index,vert_arr);
+
+In meshSamplingSimple3 (line 52)
+            vqIndex=arr_check(vbIndex,vcIndex);
+
+In main3 (line 7)
+        [n_vert,n_faces]=meshSamplingSimple3(vert1,faces1,maxDistance);
+
+In mSampling (line 8)
+            [i_vertices,i_faces]=main3(file,distance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+118984 vertices and 236872 faces 
+Operation terminated by user during meshSamplingSimple3>arr_check (line 121)
+
+
+In meshSamplingSimple3 (line 44)
+            vpIndex=arr_check(vaIndex,vbIndex);
+
+In main (line 7)
+        [n_vert,n_faces]=meshSamplingSimple3(vert1,faces1,maxDistance);
+
+In mSampling (line 11)
+        [i_vertices,i_faces]=main(file,distance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+kitchen3.off 83430 vertices and 168003 faces 
+Operation terminated by user during distancePoints (line 104)
+
+
+In meshSamplingSimple3 (line 58)
+        if(distancePoints(va',vc')>distance)
+
+In main3 (line 7)
+        [n_vert,n_faces]=meshSamplingSimple3(vert1,faces1,maxDistance);
+
+In mSampling (line 8)
+            [i_vertices,i_faces]=main3(file,distance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+kitchen5.off 154750 vertices and 297640 faces 
+Operation terminated by user during ismember>ismemberR2012a (line 137)
+
+
+In ismember (line 56)
+    [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B);
+
+In meshSamplingSimple3>arr_check (line 117)
+    [res,id]=ismember(index,vert_arr);
+
+In meshSamplingSimple3 (line 44)
+            vpIndex=arr_check(vaIndex,vbIndex);
+
+In main3 (line 7)
+        [n_vert,n_faces]=meshSamplingSimple3(vert1,faces1,maxDistance);
+
+In mSampling (line 8)
+            [i_vertices,i_faces]=main3(file,distance);
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+{Operation terminated by user during distcomp.remoteparfor/getCompleteIntervals (line 119)
+
+
+In parallel_function>distributed_execution (line 820)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+In parallel_function (line 587)
+        R = distributed_execution(...
+
+In overnight_script (line 5)
+parfor i=1:4%size(listing,1)
+} 
+exit
