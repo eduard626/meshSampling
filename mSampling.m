@@ -8,7 +8,11 @@ function [vertices,faces] = mSampling(file,distance)
             [i_vertices,i_faces]=main3(file,distance);
         end
     else
-        [i_vertices,i_faces]=main(file,distance);
+        if(scale>10)
+            [i_vertices,i_faces]=main4(file,distance);
+        else 
+            [i_vertices,i_faces]=main(file,distance);
+        end
     end
     vertices=i_vertices;
     faces=i_faces;
