@@ -1,5 +1,5 @@
 listing=dir('*.off');
-parpool('local',8)
+parpool('local',6)
 parfor i=1:size(listing,1)
     file=listing(i).name;
     file_s=strtok(file,'.');
